@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">puxarDados</string>
+    <string name="text_title">ViaCEP</string>
+    <string name="digite_o_cep">Digite o cep</string>
+    <string name="title_cepresultado">Resultado CEP</string>
+    <string name="search">Buscar</string>
+    <string name="bairro">Bairro</string>
+    <string name="complemento">Complemento</string>
+    <string name="ddd">DDD</string>
+    <string name="gia">GIA</string>
+    <string name="ibge">IBGE</string>
+    <string name="localidade">Localidade</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="Siafi">Siafi</string>
+    <string name="UF">UF</string>
+    <string name="Unidade">Unidade</string>
+</resources>
